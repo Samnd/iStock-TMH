@@ -1,0 +1,64 @@
+#content_up{
+	margin: 5px 50px;
+}
+
+h2{
+	font-size: 40px;
+	font-weight: 500;
+	color: cyan;
+}
+#form_up{
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.up{
+	margin-bottom: 100px;
+}
+div.outset {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e5e5e5;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12) !important;
+}
+.input{
+	margin: 15px 5px 15px 5px;
+}
+.input select{
+	width: 90px;
+	padding: 10px 10px;
+}
+.input select label{
+	/*width: 89px;*/
+
+}
+#PhotoType, #VideoType{
+	margin-left: 58px;
+	margin-top: -4px;
+}
+.input textarea{
+	
+}
+#PhotoDescription{
+	margin-left: 9px;
+}
+#typee{
+	width: 250px;
+	border: 1px solid;
+	display: block;
+}
+.input textarea label{
+	display:  block;
+	width: 100px;
+	margin-top: -30px;
+
+}
+#PhotoFile-update{
+	margin-left: 10px;
+}
+#PhotoFile-upload{
+	margin-left: 10px;
+}
+

@@ -1,0 +1,58 @@
+#main{
+	/*margin-left: 250px;*/
+	width: 777px;
+	height: 180px;
+	/*border: 1px solid blue;*/
+}
+#content{
+		background-color: rgba(255, 255, 255, 0.4);
+	}
+#big{
+	background-color: 
+	height: 780px;
+	width: 777px;
+	/*margin-left: 250px;*/
+	/*border: 1px solid blue;*/
+
+}
+div#container{
+	width: 800px;
+	margin-left: 250px;
+	/*border-radius: 4px;*/
+}
+#contain{/*
+		background-image: url(http://ginva.com/wp-content/uploads/2012/07/city-skyline-wallpapers-008.jpg);
+	background-size: cover;*/
+/**/
+	width: 777px;
+	height: 900px;
+	/*border: 1px solid;*/
+	padding: 0px 0px;
+/*	margin-left: 250px;
+*/}
+#div2{
+	display: block;
+	margin-left: 670px;
+	margin-top:  -60px;
+}
+
+.inputselect{
+	margin-top: 10px;
+}
+#div3{
+	width: 765px;
+	height: 55px;
+	/*margin-left: 250px;*/
+}
+.fa {
+    font-size: 50px;
+    cursor: pointer;
+    user-select: none;
+    color: red;
+}
+body{
+	overflow-x: none;
+	background-image: url(http://ginva.com/wp-content/uploads/2012/07/city-skyline-wallpapers-008.jpg);
+	background-size: cover;
+	z-index: -1;
+}
